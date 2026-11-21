@@ -123,6 +123,179 @@ The Week 3 Project Module 1 practical provided hands-on exposure to John the Rip
 
 The exercise covered downloading and extracting the required software, installing and configuring Johnny, working with the sample password-protected PDF, observing the practical process, and verifying the result.
 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NETWORKWALKS
+WEEK 3 – PROJECT MODULE 2
+PASSWORD CRACKING WITH NETWORKWALKS TOOLS
+
+
+1. OBJECTIVE
+
+The objective of this practical was to understand password security testing using NetworkWalks online tools. The exercise involved working with a password-protected PDF file, examining its security information, understanding the password recovery process and verifying the final result.
+
+2. INTRODUCTION
+
+Password cracking is the process of recovering a password from stored security information or a protected file. Cybersecurity professionals use password auditing to evaluate password strength and identify weak passwords.
+
+PDF, ZIP and Office documents can be protected using passwords. Password security information can be represented using a hash, which is a transformed value generated from the original password.
+
+NetworkWalks provides two online tools for this practical:
+
+1. NetworkWalks Hash Calculator
+2. NetworkWalks Password Cracker
+
+The Hash Calculator is used to examine the security information of a protected document. The Password Cracker is used in the lab to demonstrate password recovery.
+
+Both tools work through a web browser, so additional software installation is not required.
+
+3. SOFTWARE AND REQUIREMENTS
+
+The following resources were used:
+
+1. Windows operating system.
+2. Laptop or computer.
+3. Internet connection.
+4. Google Chrome or another web browser.
+5. NetworkWalks Hash Calculator.
+6. NetworkWalks Password Cracker.
+7. My Locked PDF1.pdf sample file.
+8. PDF viewer.
+
+4. TOOLS AND THEIR PURPOSE
+
+A. NetworkWalks Hash Calculator
+
+The Hash Calculator is an online tool used to examine the security information associated with a password-protected file.
+
+B. NetworkWalks Password Cracker
+
+The Password Cracker is an online tool used in the practical to demonstrate password recovery from the supplied document's security information.
+
+C. Sample PDF File
+
+My Locked PDF1.pdf was the password-protected sample document provided for the practical exercise.
+
+5. PRACTICAL IMPLEMENTATION
+
+STEP 1: DOWNLOADING THE SAMPLE PDF
+
+The first step was to download the encrypted PDF file named My Locked PDF1.pdf from the NetworkWalks lab webpage.
+
+The downloaded document was saved on the laptop for use in the practical.
+
+Lab webpage:
+https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+
+STEP 2: OPENING THE HASH CALCULATOR
+
+The NetworkWalks Hash Calculator webpage was opened using a web browser.
+
+The tool was accessed through the following link:
+
+https://networkwalks.com/hash-calculator/
+
+The webpage was loaded successfully and prepared for the practical exercise.
+
+STEP 3: EXAMINING THE LOCKED PDF
+
+The supplied password-protected PDF was used with the Hash Calculator.
+
+The tool examined the document and generated the security information associated with the protected PDF.
+
+STEP 4: OBSERVING THE GENERATED INFORMATION
+
+The generated information was examined as part of the practical.
+
+This stage helped understand how password-protected documents store information used during password security testing.
+
+STEP 5: OPENING THE PASSWORD CRACKER
+
+The NetworkWalks Password Cracker webpage was opened in a separate browser tab.
+
+The following webpage was used:
+
+https://networkwalks.com/password-cracker/
+
+The online tool was loaded for the next stage of the practical.
+
+STEP 6: PASSWORD SECURITY TESTING
+
+The practical demonstrated the use of the NetworkWalks Password Cracker with the supplied lab material.
+
+The purpose of this stage was to understand how password recovery tools evaluate possible passwords and identify a matching result.
+
+STEP 7: OBSERVING THE FINAL RESULT
+
+The tool was allowed to complete the assigned lab exercise.
+
+The result displayed by the application was observed and recorded as part of the practical.
+
+STEP 8: VERIFYING THE PDF DOCUMENT
+
+After obtaining the practical result, the supplied password-protected PDF was opened.
+
+The result was used to verify access to the sample document.
+
+STEP 9: FINAL VERIFICATION
+
+The sample PDF was successfully opened as part of the completed practical exercise.
+
+This confirmed the final stage of the lab and demonstrated the importance of password protection and password security testing.
+
+6. SCREENSHOTS AND EVIDENCE
+
+The following screenshots were collected during the practical:
+
+1. Downloaded sample PDF file.
+2. NetworkWalks Hash Calculator webpage.
+3. Sample PDF analysis.
+4. Generated information displayed by the calculator.
+5. NetworkWalks Password Cracker webpage.
+6. Password security testing progress.
+7. Final result displayed by the tool.
+8. Opened sample PDF after verification.
+
+All screenshots are stored in the Screenshots folder inside the PM2 folder.
+
+7. OBSERVATIONS
+
+1. Password-protected PDF documents require the correct password for access.
+2. The Hash Calculator provides information related to the document's password protection.
+3. The Password Cracker demonstrates the process of password recovery.
+4. Weak and commonly used passwords provide less security.
+5. Strong passwords improve document protection.
+6. Online security tools can be used for educational password-auditing exercises.
+7. Final verification is important to confirm the outcome of a practical exercise.
+
+8. LEARNING OUTCOMES
+
+Through this practical, I learned:
+
+1. The basic concept of password security testing.
+2. The difference between encryption and hashing.
+3. The purpose of the NetworkWalks Hash Calculator.
+4. The purpose of the NetworkWalks Password Cracker.
+5. How password-protected PDF documents are examined.
+6. The importance of strong and complex passwords.
+7. How online cybersecurity tools are used in practical exercises.
+8. The importance of verifying results.
+9. How to document practical activities using screenshots.
+
+9. CONCLUSION
+
+The Week 3 Project Module 2 practical provided an introduction to password security testing using NetworkWalks online tools.
+
+The exercise covered downloading a protected PDF, accessing the Hash Calculator, examining the document's security information, using the Password Cracker as part of the lab, observing the result and verifying the sample PDF.
+
+This practical improved my understanding of password security, hashing, encryption and online cybersecurity tools. It also demonstrated the importance of using strong passwords to protect confidential documents.
+
+ORGANIZATION: NETWORKWALKS
+WEEK: 3
+PROJECT MODULE: 2
+STATUS: PRACTICAL COMPLETED
+
 This practical improved my understanding of password security, auditing tools, and the importance of evaluating document protection in an authorized testing environment.
 
 ORGANIZATION: NETWORKWALKS
